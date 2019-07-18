@@ -1,0 +1,353 @@
+/* TO FIX 
+-> Change loading color of ant-cards to black 
+-> buttons in article page
+-> about.narrative.org
+*/
+* {
+    background-color: black !important;
+    color: white !important;
+}
+
+/* Reputation */
+.hqgYQS a {
+    background: none !important;
+}
+
+.hOFgxS a {
+    background: none !important;
+}
+/* Navbar */
+.RyZbE {
+    background-color: black !important;
+}
+
+body {
+    background-color: black !important;
+}
+
+/* Hover over profile */
+.ant-dropdown-menu {
+    background-color: black !important;
+}
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title {
+    background-color: black !important;
+}
+.ant-dropdown-menu-item>a, .ant-dropdown-menu-submenu-title>a {
+    color: white !important;
+}
+
+/* Entire page */
+.hGRuer {
+    background-color: black !important; 
+}
+
+a {
+    background-color: black !important;
+}
+
+/* Header */
+.cisFxt {
+    color: white !important;
+}
+
+.bMsdhB > span {
+    color: white !important;
+}
+
+.dnzBvz {
+    color: white !important;
+}
+
+/* the blue red gradient sucks in dark mode */
+.Fedyf {
+    background: black !important;
+    border-color: black !important;
+}
+
+/* tags on card */
+
+.iGpCUx.ant-tag {
+    background-color: black !important;
+}
+
+/* Cards on home page */
+.ant-card {
+    background-color: black !important;
+    color: white !important;
+    border-color: #1d1c1c !important;
+    border-left-color: black !important;
+    border-right-color: black !important;
+    border-bottom: none !important;
+}
+
+.hwQXLo, .hwQXLo a {
+    color: white !important;
+}
+
+.eKzFsB {
+    color: white !important; 
+}
+
+.ksxehj {
+    color: white !important; 
+}
+
+/* Footer */
+.gMNidr {
+    background-color: black !important;
+    border-color: rgb(26, 25, 25) !important;
+}
+
+.fImlyc span {
+    color: white !important;
+}
+
+/* Bottom most */
+
+.hgPvJh {
+    background-color: black !important;
+}
+
+/* Home page niche approval, sale */
+
+.tHqxN.ant-card {
+    box-shadow:0 0 30px rgb(19, 17, 17) !important;
+}
+
+/* Niche page */
+
+/* Heading */
+
+.feHwNZ {
+    color: white !important;
+}
+
+.eHKzpZ {
+    color: rgb(219, 208, 208) !important;
+}
+
+.byXJJI .ant-btn, .byXJJI .ant-btn:hover, .byXJJI .ant-btn:focus, .byXJJI .ant-btn:active, .byXJJI .ant-btn-loading {
+    border-color: black !important;
+    background-color: black !important;
+}
+
+/* Card */
+
+.fVoywM, .fVoywM a {
+    color: white !important;
+}
+
+.gwchXb {
+    color: white !important;
+}
+
+.joPJlQ.ant-tag {
+    background-color: black !important;
+}
+
+/* Article Page */
+
+.icgtPB {
+    background-color: black !important;
+}
+
+.fAeLGl.ant-tag {
+    background-color: black !important;
+}
+
+.gEQfdA h3 {
+    color: white !important;
+}
+
+.kTFxxi p, .kTFxxi span, .kTFxxi strong, .kTFxxi em, .kTFxxi li {
+    color: white !important;
+}
+
+/* Rating and Audience */
+.mPJck {
+    color: white !important;
+}
+
+/* Votes */
+.iBDyaZ {
+    color: white !important;
+}
+
+.eJfpJV .anticon {
+    background: #2cb3f6 !important;
+}
+
+.ant-progress-circle .ant-progress-text {
+    background: none !important;
+}
+
+.ant-icon svg {
+    color: #2cb3f6 !important;
+}
+/* Ages */
+.ikKYXR {
+    color: white !important;
+}
+
+.gfbGIo.ant-btn/*.gfbGIo.ant-btn:hover, .gfbGIo.ant-btn:active*/ { 
+    background-color: black !important;
+}
+
+.ant-btn>i, .ant-btn>span {
+    display: inline !important;
+    pointer-events: inherit !important;
+    background-color: inherit !important;
+}
+
+.fjTWnf.ant-btn:hover, .fjTWnf.ant-btn:active, .fjTWnf.ant-btn:focus  {
+    background-color: rgb(255, 79, 79) !important;
+}
+
+.ferPub.ant-btn:hover, .ferPub.ant-btn:active, .ferPub.ant-btn:focus {
+    background-color: #2cb3f6 !important;
+    color: white !important;
+    border-color: rgb(44, 179, 246) !important;
+}
+
+.ant-icon>svg {
+    filter: invert(62%) sepia(25%) saturate(3477%) hue-rotate(170deg) brightness(98%) contrast(97%) !important;
+}
+
+/* Above 18 vote button */
+
+.bDFnoE.ant-btn {
+    background-color: black !important;
+}
+
+/* About Author */
+
+/* .fVFVQp.ant-btn, .fVFVQp.ant-btn:hover, .fVFVQp.ant-btn:focus, .fVFVQp.ant-btn:active {
+    background-color: rgb(52, 77, 89) !important;
+} */
+
+
+
+.kDpKsm {
+    color: white !important;
+}
+
+.byXJJI .ant-btn, .byXJJI .ant-btn:hover, .byXJJI .ant-btn:focus, .byXJJI .ant-btn:active, .byXJJI .ant-btn-loading {
+    background-color: black !important;
+    border-color: black !important;
+}
+
+.hnqloy {
+    border-color: #1d1c1c !important;
+}
+
+/* Comments */
+.eQNMgt {
+    color: white !important;
+}
+
+.ant-input {
+    background-color: black !important;
+    color: white !important;
+    border-color: #1d1c1c !important;
+}
+
+.iqFkAt {
+    color: white !important;
+}
+
+/* Profile Page */
+
+.itRkdK {
+    color: white !important;
+}
+
+.iirdpp {
+    background-color: black !important
+}
+
+.ant-btn {
+    background-color: black !important;
+}
+
+button {
+    fill: black !important;
+}
+
+/* HQ page */
+
+.igQhZa .ant-card-body a {
+    box-shadow:0 0 30px rgb(19, 17, 17) !important;
+    color: white !important;
+    background: none !important;
+}
+
+/* about.narrative.org */
+
+/* Submit button */
+
+.signup-form .button input {
+    background-color: #c5d83f !important;
+    color: black !important;
+}
+
+.signup-form .button input:not(:disabled):hover {
+    color: #c5d83f !important;
+    background-color: black !important; 
+}
+
+.signup-form .field input {
+    box-shadow: 0 0 0 30px black !important;
+    background-color: black !important;
+    color: white !important;
+}
+
+.contentContainer {
+    background: none !important;
+}
+
+
+.page-header {
+    background: none !important;
+}
+
+.page-header__title.blue {
+    background: none !important;
+}
+
+
+.join__btn-wrapper {
+    background: none !important;
+}
+
+.join__social-wrapper {
+    background: none !important;
+
+}
+#team {
+    background: none !important;
+}
+
+.team-wrapper {
+    background: none !important;
+}
+
+#join .contentContainer {
+    background: none !important;
+}
+
+.join__social-icons-wrapper {
+    background: none !important;
+}
+
+.join__social-description {
+    background: none !important;
+
+}
+
+.bg-wrap.bot {
+    background: none !important;
+}
+
+.background {
+    background: none !important;
+}
